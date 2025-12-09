@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<script src="{{ '/update_pubs.js' | relative_url }}"></script>
+</head>
+<body>
+
+{% include header.html %}
+
+<main>
+  {% include bio.html %}
+  {% include publications.html %}
+  {% include projects.html %}
+  {% include teaching.html %}
+  {% include contact.html %}
+</main>
+
+<footer>
+  © {{ site.time | date: "%Y" }} Pawel Rubach
+</footer>
+
+</body>
+</html>

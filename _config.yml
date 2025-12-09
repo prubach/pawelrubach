@@ -1,0 +1,8 @@
+title: "Pawel Rubach – Researcher & IT Architect"
+email: "your.email@domain"
+description: "Assistant Professor, distributed computing, optimization, IT architect"
+baseurl: ""        # because we’ll host at root (or change if hosting in subpath)
+url: "https://your-domain.com"   # replace with your domain (or GitHub pages URL)
+theme: minima       # optional, or you can ignore theme and use custom layout
+markdown: kramdown
+plugins: []

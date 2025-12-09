@@ -1,0 +1,14 @@
+<section id="projects">
+  <h2>Research Projects</h2>
+  <div style="display:flex; flex-wrap:wrap; gap:20px;">
+    <a href="https://knotprot.cent.uw.edu.pl/" target="_blank">🧬 KnotProt</a>
+    <a href="https://genus.fuw.edu.pl/" target="_blank">🔬 Genus</a>
+    <a href="https://alphaknot.cent.uw.edu.pl/" target="_blank">🧩 AlphaKnot</a>
+    <a href="https://alphalasso.cent.uw.edu.pl/" target="_blank">🔗 AlphaLasso</a>
+    <a href="https://topoly.cent.uw.edu.pl/" target="_blank">🗺️ Topoly</a>
+    <a href="https://ilbsm.github.io/horda/" target="_blank">⚙️ Horda</a>
+    <a href="https://prubach.github.io/lsscb/" target="_blank">🧪 LSSCB</a>
+    <a href="https://www.proteindiffraction.org/" target="_blank">💎 Protein Diffraction</a>
+    <a href="https://bioreproducibility.org/figures/" target="_blank">📊 BioReproducibility</a>
+  </div>
+</section>

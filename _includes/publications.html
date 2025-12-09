@@ -1,0 +1,52 @@
+<section id="publications" class="container">
+  <h2>Publications</h2>
+  <div id="publication-list">Loading publications…</div>
+</section>
+
+<script>
+async function loadPublications() {
+  try {
+    const response = await fetch("/assets/data/publications.json");
+    const publications = await response.json();
+
+    const container = document.getElementById("publication-list");
+    container.innerHTML = ""; // clear loading text
+
+    publications.sort((a,b)=> (b.year||0) - (a.year||0)); // newest first
+
+    publications.forEach(pub => {
+      
+      // formatted author list
+      const authors = pub.authors?.length ? pub.authors.join(", ") : "Author list not available";
+
+      // Construct fallback citation if ORCID doesn't provide one
+      const builtCitation = `${authors} (${pub.year}). <strong>${pub.title}</strong>. ${pub.journal}${pub.doi ? ", DOI: <a href='https://doi.org/"+pub.doi+"' target='_blank'>"+pub.doi+"</a>" : ""}`;
+
+      const citation = pub.citation && pub.citation.length > 5 ? pub.citation : builtCitation;
+
+      const entry = document.createElement("p");
+      entry.innerHTML = citation;
+      entry.classList.add("publication-item");
+
+      container.appendChild(entry);
+    });
+
+  } catch (err) {
+    document.getElementById("publication-list").innerHTML = "❗ Unable to load publications";
+    console.error(err);
+  }
+}
+
+loadPublications();
+</script>
+
+<style>
+#publications { padding: 50px 0; }
+#publications h2 { margin-bottom: 20px; }
+.publication-item {
+  margin-bottom: 12px;
+  line-height: 1.4em;
+  padding-left: 8px;
+  border-left: 3px solid #0077b6;
+}
+</style>

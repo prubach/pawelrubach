@@ -1,0 +1,29 @@
+my_website/
+│
+├─ _layouts/
+│   └─ default.html         # Main layout template
+│
+├─ _includes/
+│   ├─ header.html          # Navigation + hero section
+│   ├─ bio.html             # Bio + Education + Employment
+│   ├─ publications.html    # ORCID publications
+│   ├─ projects.html        # Research projects
+│   ├─ teaching.html        # Courses
+│   └─ contact.html         # Contact & external profiles
+│
+├─ _data/
+│   └─ orcid_publications.yml  # Populated by Python script
+│
+├─ assets/
+│   ├─ css/
+│   │   └─ style.css        # Global CSS
+│   └─ images/
+│       ├─ profile.jpg
+│       └─ background.jpg
+│
+├─ index.md                # Main page (includes all sections)
+├─ students.md             # Master thesis students page
+├─ update_publications.py  # ORCID fetch script
+├─ update_pubs.js          # JS loader for publications
+└─ .github/workflows/
+    └─ update.yml          # GitHub Actions workflow

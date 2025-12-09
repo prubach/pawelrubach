@@ -1,0 +1,137 @@
+- doi: 10.3390/kinasesphosphatases3030019
+  journal: Kinases and Phosphatases
+  title: A Critical Look at the Crystal Structures of cAMP-Dependent Protein Kinases
+  year: '2025'
+- doi: 10.1145/3708035.3736007
+  journal: Kinases and Phosphatases
+  title: "Applying Large-Scale Distributed Computing to Structural Bioinformatics\
+    \ \u2013 Bridging Legacy HPC Clusters with Big Data Technologies using kafka-slurm-agent"
+  year: '2025'
+- doi: 10.1093/nar/gkaf375
+  journal: Nucleic Acids Research
+  title: "AlphaLasso\u2014a web server to identify loop and lasso motifs in 3D structure\
+    \ of biopolymers"
+  year: '2025'
+- doi: 10.1107/S2059798325001883
+  journal: Acta Crystallographica Section D Structural Biology
+  title: 'Duplicate entries in the Protein Data Bank: how to detect and handle them'
+  year: '2025'
+- doi: 10.1080/17460441.2025.2450636
+  journal: Expert Opinion on Drug Discovery
+  title: Advances in cryo-electron microscopy (cryoEM) for structure-based drug discovery
+  year: '2025'
+- doi: 10.1107/S2052252524009928
+  journal: IUCrJ
+  title: Waterless structures in the Protein Data Bank
+  year: '2024'
+- doi: 10.1093/nar/gkae443
+  journal: Nucleic Acids Research
+  title: "AlphaKnot 2.0: a web server for the visualization of proteins\u2019 knotting\
+    \ and a database of knotted AlphaFold-predicted models"
+  year: '2024'
+- doi: 10.1002/pro.4998
+  journal: Protein Science
+  title: "Knot or not? Identifying unknotted proteins in knotted families with sequence\u2010\
+    based Machine Learning model"
+  year: '2024'
+- doi: 10.59139/ws.2024.05.2
+  journal: "Wiadomo\u015Bci Statystyczne. The Polish Statistician"
+  title: Log-Quad divergence for Non-negative Matrix Factorization in multi-model
+    prediction
+  year: '2024'
+- doi: 10.1101/2023.09.06.556468
+  journal: "Wiadomo\u015Bci Statystyczne. The Polish Statistician"
+  title: Knot or Not? Sequence-Based Identification of Knotted Proteins With Machine
+    Learning
+  year: '2023'
+- doi: 10.1101/2023.06.16.545156
+  journal: "Wiadomo\u015Bci Statystyczne. The Polish Statistician"
+  title: Proteins containing 6-crossing knot types and their folding pathways
+  year: '2023'
+- doi: 10.1002/pro.4631
+  journal: Protein Science
+  title: AlphaFold predicts novel human proteins with knots
+  year: '2023'
+- doi: 10.1093/nar/gkac388
+  journal: Nucleic Acids Research
+  title: 'AlphaKnot: server to analyze entanglement in structures predicted by AlphaFold
+    methods'
+  year: '2022'
+- doi: 10.1101/2021.12.30.474018
+  journal: Nucleic Acids Research
+  title: New 63 knot and other knots in human proteome from AlphaFold predictions
+  year: '2022'
+- doi: 10.1093/nar/gkab988
+  journal: Nucleic Acids Research
+  title: 'PDBe-KB: collaboratively defining the biological context of structural data'
+  year: '2021'
+- doi: 10.1007/978-3-030-61534-5_23
+  journal: Artificial Intelligence and Soft Computing
+  title: Identification of Delays in AMUSE Algorithm for Blind Signal Separation of
+    Financial Data
+  year: '2020'
+- doi: 10.1093/bib/bbaa196
+  journal: Briefings in Bioinformatics
+  title: 'Topoly: Python package to analyze topology of polymers'
+  year: '2020'
+- doi: 10.22630/MIBE.2019.20.4.28
+  journal: "Metody Ilo\u015Bciowe w Badaniach Ekonomicznych"
+  title: "SEPARACJA FINANSOWYCH SZEREG\xD3W CZASOWYCH Z WYKORZYSTANIEM DEKORELACJI\
+    \ Z OP\xD3\u0179NIENIAMI"
+  year: '2019'
+- doi: 10.1093/nar/gkz845
+  journal: Nucleic Acids Research
+  title: Genus for biomolecules
+  year: '2019'
+- doi: 10.1093/nar/gky1140
+  journal: Nucleic Acids Research
+  title: 'KnotProt 2.0: a database of proteins with knots and other entangled structures'
+  year: '2018'
+- doi: 10.22630/MIBE.2018.19.3.26
+  journal: "Metody Ilo\u015Bciowe w Badaniach Ekonomicznych"
+  title: "FILTRACJA FINANSOWYCH SZEREG\xD3W CZASOWYCH METODAMI NIEUJEMNEJ FAKTORYZACJI\
+    \ MACIERZY"
+  year: '2018'
+- doi: 10.1007/978-3-319-91253-0_24
+  journal: Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics)
+  title: Extreme value model for volatility measure in machine learning ensemble
+  year: '2018'
+- doi: 10.22630/MIBE.2017.18.4.63
+  journal: "Metody Ilo\u015Bciowe w Badaniach Ekonomicznych"
+  title: "IDENTYFIKACJA KOMPONENT\xD3W DESTRUKCYJNYCH W MODELACH PREDYKCYJNYCH W PODEJ\u015A\
+    CIU WIELOMODELOWYM"
+  year: '2017'
+- doi: 10.2316/P.2011.719-024
+  journal: Proceedings of the 10th IASTED International Conference on Parallel and
+    Distributed Computing and Networks, PDCN 2011
+  title: SLA-based asynchronous coordination in metacomputing environments
+  year: '2011'
+- doi: 10.1109/ICPPW.2009.47
+  journal: Proceedings of the International Conference on Parallel Processing Workshops
+  title: Autonomic SLA management in federated computing environments
+  year: '2009'
+- doi: 10.1007/978-3-642-05290-3_36
+  journal: Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics)
+  title: Dynamic SLA negotiation in autonomic federated environments
+  year: '2009'
+- doi: 10.4018/978-1-60566-804-8.ch011
+  journal: 'Semantic Enterprise Application Integration for Business Processes: Service-Oriented
+    Frameworks'
+  title: 'Semantic business process management: A case study'
+  year: '2009'
+- doi: null
+  journal: CEUR Workshop Proceedings
+  title: 'Semantic business process management: An empirical case study'
+  year: '2008'
+- doi: null
+  journal: Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft
+    fur Informatik (GI)
+  title: Collaborative ontology development in real telecom environment
+  year: '2007'
+- doi: null
+  journal: Business Information System 2005 - 8th International Conference on Business
+    Information Systems
+  title: Computer based assessment system
+  year: '2005'

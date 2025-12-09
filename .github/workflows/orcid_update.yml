@@ -1,0 +1,30 @@
+name: Update ORCID Publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install pyyaml requests
+
+      - name: Run ORCID updater
+        run: python fetch_orcid.py
+
+      - name: Commit and push results
+        run: |
+          git add _data/orcid_publications.yml
+          git commit -m "Auto-update ORCID publications"
+          git push

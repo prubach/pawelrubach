@@ -1,0 +1,9 @@
+<section id="publications">
+  <h2>Publications</h2>
+  <p>(Auto-synced weekly from ORCID)</p>
+  <ul id="pub-container">
+    {% for pub in site.data.orcid_publications %}
+    <li><b>{{ pub.year }}</b> — <a href="http://doi.org/{{ pub.doi }}" target="_blank">{{ pub.title }}</a> {{ pub.journal }}</li>
+    {% endfor %}
+  </ul>
+</section>
