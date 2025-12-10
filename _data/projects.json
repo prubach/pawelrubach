@@ -1,0 +1,56 @@
+[
+  {
+    "name": "AlphaKnot 2.0",
+    "url": "https://alphaknot.cent.uw.edu.pl/",
+    "description": "Server & database for entanglement analysis in AlphaFold-predicted protein models.",
+    "icon": "/assets/images/logos/alphaknot.png"
+  },
+  {
+    "name": "AlphaLasso",
+    "url": "https://alphalasso.cent.uw.edu.pl/",
+    "description": "Database of proteins with lasso-type motifs in AlphaFold models.",
+    "icon": "/assets/images/logos/alphalasso.png"
+  },
+  {
+    "name": "KnotProt 2.0",
+    "url": "https://knotprot.cent.uw.edu.pl/",
+    "description": "Database of proteins with knots, slipknots and knotoids.",
+    "icon": "/assets/images/logos/knotprot.svg"
+  },
+  {
+    "name": "Genus",
+    "url": "https://genus.fuw.edu.pl/",
+    "description": "Database of genus characteristics for proteins and RNA chains.",
+    "icon": "/assets/images/logos/genus.png"
+  },
+  {
+    "name": "Topoly",
+    "url": "https://topoly.cent.uw.edu.pl/",
+    "description": "Python package for polymer topology analysis — computing knot/link invariants.",
+    "icon": "/assets/images/logos/topoly.png"
+  },
+  {
+    "name": "Horda",
+    "url": "https://ilbsm.github.io/horda/",
+    "description": "Documentation of the HORDA computing cluster at CeNT, UW (Joanna Sulkowska's Group).",
+    "icon": "/assets/images/logos/horda.png"
+  },
+  {
+    "name": "LSSCB",
+    "url": "https://prubach.github.io/lsscb/",
+    "description": "Documentation of the LSSCB computing cluster at CeNT, UW (Bartosz Trzaskowski's Group).",
+    "icon": "/assets/images/logos/lsscb.png"
+  },
+  {
+    "name": "Protein Diffraction",
+    "url": "https://www.proteindiffraction.org/",
+    "description": "Integrated Resource for Reproducibility in Macromolecular Crystallography.",
+    "icon": "/assets/images/logos/proteindiffraction.png"
+  },
+  {
+    "name": "BioReproducibility",
+    "url": "https://bioreproducibility.org/figures/",
+    "description": "Interactive figures for structural biology research papers published at Minor Lab.",
+    "icon": "/assets/images/logos/bioreproducibility.png"
+  }
+]

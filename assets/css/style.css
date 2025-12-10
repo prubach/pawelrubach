@@ -217,3 +217,60 @@ header .contact-icons ul li a:hover {
 /*  transform: scale(1.2);*/
 /*  color: #ffd700; !* optional hover color, e.g., gold *!*/
 /*}*/
+
+/* Research Projects section */
+
+#projects {
+  padding: 40px 20px;
+}
+
+#projects h2 {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+.project-card {
+  flex: 1 1 200px;
+  max-width: 230px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+  background: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.project-card img {
+  width: 56px;
+  height: 56px;
+  margin-bottom: 12px;
+  object-fit: contain;
+}
+
+.project-name {
+  font-weight: 600;
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+
+.project-desc {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+}
+
+.project-card a {
+  text-decoration: none;
+  color: inherit;
+}
