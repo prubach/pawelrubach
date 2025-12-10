@@ -5,7 +5,6 @@ import yaml
 from time import sleep
 
 ORCID_ID = "0000-0001-5487-609X"
-#ORCID_ID = "YOUR_ORCID_ID_HERE"
 API = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
 HEADERS = {"Accept": "application/vnd.orcid+json"}
 
@@ -88,9 +87,9 @@ def run():
         sleep(0.2)  # res
          
          # Save outputs
-    with open("assets/data/publications.json","w") as f: json.dump(output,f,indent=2)
-    with open("assets/data/publications.yaml","w") as f: yaml.dump(output,f,sort_keys=False)
-    with open("assets/data/publications.bib","w") as f: f.write("\n".join(to_bibtex(x) for x in output))
+    with open("_data/publications.json","w") as f: json.dump(output,f,indent=2)
+    with open("_data/publications.yaml","w") as f: yaml.dump(output,f,sort_keys=False)
+    with open("_data/publications.bib","w") as f: f.write("\n".join(to_bibtex(x) for x in output))
 
     print("Saved: publications.json, publications.yaml, publications.bib")
 

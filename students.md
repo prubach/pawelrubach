@@ -1,6 +1,6 @@
 ---
 layout: students
-title: Master Thesis Students
+title: Supervisor
 permalink: /students/
 ---
 

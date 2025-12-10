@@ -1,0 +1,81 @@
+<h1>Conference Talks</h1>
+
+<label>Filter by year:</label>
+<select id="yearFilter">
+  <option value="all">All years</option>
+</select>
+
+<label>Filter by type:</label>
+<select id="typeFilter">
+  <option value="all">All types</option>
+</select>
+
+<div id="conference-list"></div>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<script>
+  const conferences = {{ site.data.conferences | jsonify }};
+  const listDiv = document.getElementById("conference-list");
+  const yearFilter = document.getElementById("yearFilter");
+  const typeFilter = document.getElementById("typeFilter");
+
+  // Populate year and type filters
+  const years = [...new Set(conferences.map(c => c.year))].sort().reverse();
+  years.forEach(y => yearFilter.appendChild(new Option(y, y)));
+
+  const types = [...new Set(conferences.map(c => c.type))].sort();
+  types.forEach(t => typeFilter.appendChild(new Option(t, t)));
+
+  function renderList() {
+    const year = yearFilter.value;
+    const type = typeFilter.value;
+
+    const filtered = conferences.filter(c =>
+      (year === "all" || c.year == year) &&
+      (type === "all" || c.type === type)
+    );
+
+    let html = "<ul class='conference-container'>";
+    filtered.forEach(c => {
+      html += `
+        <li class='conference-item'>
+          <span class='conf-year'>${c.year}</span>
+          <span class='conf-title'><a href='${c.link}' target='_blank'>${c.title}</a></span>
+          <span class='conf-name'>${c.conference}</span>
+          <span class='conf-location'>${c.location}</span>
+          <span class='conf-type'>${c.type}</span>
+        </li>
+      `;
+    });
+    html += "</ul>";
+    listDiv.innerHTML = html;
+  }
+
+  yearFilter.addEventListener("change", renderList);
+  typeFilter.addEventListener("change", renderList);
+
+  renderList();
+</script>
+
+<style>
+  .conference-container {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .conference-item {
+    display: grid;
+    grid-template-columns: 60px 1fr 1fr 200px 200px;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    align-items: center;
+  }
+
+  .conf-year { font-weight: 600; color: #333; }
+  .conf-title a { font-weight: 600; color: #111; text-decoration: none; }
+  .conf-title a:hover { text-decoration: underline; }
+  .conf-name, .conf-location, .conf-type { color: #555; font-size: 0.95em; }
+</style>
