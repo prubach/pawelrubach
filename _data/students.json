@@ -1,0 +1,737 @@
+[
+  {
+    "title": "Biznesowe wykorzystanie wolnego i otwartego oprogramowania w branży informatycznej",
+    "author": "Justyna Małgorzaciak",
+    "year": "2017",
+    "url": "https://apd.sgh.waw.pl/diplomas/68194/",
+    "category": "master"
+  },
+  {
+    "title": "XYZŹŻ",
+    "author": "Sebastian Kołnier",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/74557/",
+    "category": "master"
+  },
+  {
+    "title": "Analiza ruchu sieci bezprzewodowej jako źródło wiedzy o otoczeniu i zachowaniach ludzi",
+    "author": "Michał Korzeń",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/74325/",
+    "category": "master"
+  },
+  {
+    "title": "Wdrażanie elastycznych systemów informatycznych a współpraca biznes-IT – studium przypadku branża ubezpieczeniowa",
+    "author": "Przemysław Gnatowski",
+    "year": "2013",
+    "url": "https://apd.sgh.waw.pl/diplomas/26434/",
+    "category": "master"
+  },
+  {
+    "title": "Technologia handlu wysokich częstotliwości",
+    "author": "Marek Michalak",
+    "year": "2013",
+    "url": "https://apd.sgh.waw.pl/diplomas/27851/",
+    "category": "master"
+  },
+  {
+    "title": "Technologie Big Data – obszary zastosowań i weryfikacja efektywności przetwarzania równoległego",
+    "author": "Anna Bartczak",
+    "year": "2014",
+    "url": "https://apd.sgh.waw.pl/diplomas/28751/",
+    "category": "master"
+  },
+  {
+    "title": "Algorytmy handlu dużymi pakietami na rynkach \u001cfinansowych",
+    "author": "Tomasz Lulek",
+    "year": "2014",
+    "url": "https://apd.sgh.waw.pl/diplomas/29431/",
+    "category": "master"
+  },
+  {
+    "title": "Baza noSQL jako alternatywa dla baz relacyjnych w gwałtownie rozwijających się przedsiębiorstwach",
+    "author": "Małgorzata Jarząbek",
+    "year": "2017",
+    "url": "https://apd.sgh.waw.pl/diplomas/42237/",
+    "category": "master"
+  },
+  {
+    "title": "Główne trendy kształtujące rozwój cloud computingu w biznesie w najbliższych latach",
+    "author": "Vladislavas Denovagis",
+    "year": "2016",
+    "url": "https://apd.sgh.waw.pl/diplomas/42511/",
+    "category": "master"
+  },
+  {
+    "title": "Wykorzystanie hurtowni danych i analityki biznesowej na przykładzie branży telekomunikacyjnej",
+    "author": "Sebastian Dziadkowiec",
+    "year": "2013",
+    "url": "https://apd.sgh.waw.pl/diplomas/22989/",
+    "category": "master"
+  },
+  {
+    "title": "Predykcja wydarzeń politycznych z wykorzystaniem analityki Big Data",
+    "author": "Michał Dura",
+    "year": "2017",
+    "url": "https://apd.sgh.waw.pl/diplomas/70696/",
+    "category": "master"
+  },
+  {
+    "title": "Nowe rozwiązania w architekturze tworzenia skalowalnych aplikacji biznesowych",
+    "author": "Maciej Głownia",
+    "year": "2017",
+    "url": "https://apd.sgh.waw.pl/diplomas/71071/",
+    "category": "master"
+  },
+  {
+    "title": "Innowacyjne metody analizy opinii społecznej w Internecie",
+    "author": "Mateusz Kubiak",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/72725/",
+    "category": "master"
+  },
+  {
+    "title": "Przegląd wybranych rozwiązań uczenia maszynowego, szeroko rozumianej analityki oraz ich praktyczne zastosowanie",
+    "author": "Łukasz Brzozowski",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/77990/",
+    "category": "master"
+  },
+  {
+    "title": "SQL vs NoSQL: Porównanie wydajności systemów baz danych MySQL oraz Apache Cassandra",
+    "author": "Natalia Fałek",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/79888/",
+    "category": "master"
+  },
+  {
+    "title": "Zagrożenia bezpieczeństwa sieciowego w postaci blokady usług oraz kradzieży danych",
+    "author": "Mateusz Orzoł",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/79878/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie platformy SAP HANA, jako rozwiązania do zarządzania danymi i analityki",
+    "author": "Dominika Ziobro",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/79797/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie sieci neuronowych w prognozowaniu przebiegu akcji w męskiej piłce siatkowej",
+    "author": "Michał Serdak",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/80082/",
+    "category": "master"
+  },
+  {
+    "title": "Praca magisterska na kierunku: Metody ilościowe w ekonomii i systemy informacyjne u promotora: dr Rubach Paweł Stefan",
+    "author": "Małgorzata Rakowska",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/80211/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie algorytmów uczenia głębokiego w klasyfikacji obrazów badania histopatologicznego raka piersi",
+    "author": "Albert Plewik",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/80197/",
+    "category": "master"
+  },
+  {
+    "title": "Prezentacja procesu budowy modeli uczenia maszynowego na przykładzie wyceny i klasyfikacji nieruchomości",
+    "author": "Michał Basak",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/86425/",
+    "category": "master"
+  },
+  {
+    "title": "Porównanie zastosowania oprogramowania komercyjnego oraz Open source w raportowaniu, analizie danych i Business Intelligence",
+    "author": "Przemysław Kępka",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/86392/",
+    "category": "master"
+  },
+  {
+    "title": "Analiza uczuć / opinii użytkowników internetu na zachodzące wydarzenia w przetsrzeni publicznej.",
+    "author": "Tomasz Świrski",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/86695/",
+    "category": "master"
+  },
+  {
+    "title": "Predykcja finansowych szeregów czasowych przy pomocy konwolucyjnych sieci neuronowych",
+    "author": "Damian Jakubowski",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/86705/",
+    "category": "master"
+  },
+  {
+    "title": "Predykcja Covid-19 na podstawie zdjęć rentgenowskich klatki piersiowej z wykorzystaniem sieci neuronowych",
+    "author": "Tomasz Poniatowski",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/88104/",
+    "category": "master"
+  },
+  {
+    "title": "Porównanie bazy danych SQL z noSQL na przykładzie",
+    "author": "Jakub Kosyl",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/89161/",
+    "category": "master"
+  },
+  {
+    "title": "Presence of Artificial Intelligence in healthcare",
+    "author": "Ripudaman Sangha",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/92751/",
+    "category": "master"
+  },
+  {
+    "title": "Sztuczna inteligencja w edukacji - szanse i zagrożenia",
+    "author": "Marcin Bojanowski",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/92812/",
+    "category": "master"
+  },
+  {
+    "title": "Techniki filtrowania spamu z wykorzystaniem metod uczenia maszynowego",
+    "author": "Bartłomiej Karwowski",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/92870/",
+    "category": "master"
+  },
+  {
+    "title": "XYZ",
+    "author": "Michał Kłos",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/92874/",
+    "category": "master"
+  },
+  {
+    "title": "XYZ",
+    "author": "Adrian Siegieda",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/92993/",
+    "category": "master"
+  },
+  {
+    "title": "Narrative visualization in social media",
+    "author": "Huijia Yang",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/93072/",
+    "category": "master"
+  },
+  {
+    "title": "Powszechne wykorzystanie systemów rozpoznawania twarzy opartych na technologii głębokich sieci neuronowych w celu zwiększenia bezpieczeństwa publicznego",
+    "author": "Mateusz Skrobek",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/93250/",
+    "category": "master"
+  },
+  {
+    "title": "Migracja hurtowni danych do chmury- wdrożenie Google BigQuery",
+    "author": "Sylwia Truszkowska",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/93618/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie algorytmów uczenia maszynowego w analizie sekwencji białek",
+    "author": "Maks Sędzielski",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/93858/",
+    "category": "master"
+  },
+  {
+    "title": "Modern Perception of Data Using Data Governance and Ways of Storing Data",
+    "author": "Kateryna Shulikova",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/93884/",
+    "category": "master"
+  },
+  {
+    "title": "Wytłumaczalna sztuczna inteligencja w obszarze skoringu kredytowego",
+    "author": "Adrian Ciurzycki",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/93973/",
+    "category": "master"
+  },
+  {
+    "title": "ZYX",
+    "author": "Ripudaman Sangha",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/94185/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie technik przetwarzania danych do struktury pierwszorzędowej białek",
+    "author": "Michał Wójcik",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/94332/",
+    "category": "master"
+  },
+  {
+    "title": "Wykorzystanie sztucznej inteligencji w piłce nożnej",
+    "author": "Jakub Hornik",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/94758/",
+    "category": "master"
+  },
+  {
+    "title": "Przegląd algorytmów wykorzystywanych w systemach rekomendacyjnych oraz implementacja z użyciem sztucznych sieci neuronowych",
+    "author": "Mateusz Szewczyk",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/94907/",
+    "category": "master"
+  },
+  {
+    "title": "Aplikacja służąca zwiększeniu cyberbezpieczeństwa organizacji",
+    "author": "Piotr Zadrożny",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/94920/",
+    "category": "master"
+  },
+  {
+    "title": "IoT jako klucz do zastosowania Big Data w realnym świecie. Czym są dane i dlaczego są tak istotne?",
+    "author": "Rafał Daniszewski",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/94958/",
+    "category": "master"
+  },
+  {
+    "title": "Analiza narzędzi i metod ochrony przed phishingiem",
+    "author": "Sebastian Machał",
+    "year": "2021",
+    "url": "https://apd.sgh.waw.pl/diplomas/94973/",
+    "category": "master"
+  },
+  {
+    "title": "A Comprehensive Analysis of Middleware Applications Available in the Current Market",
+    "author": "Christy Das",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/96187/",
+    "category": "master"
+  },
+  {
+    "title": "Government Spending Pattern and Economic Growth in a Cross Sectional Data Analysis",
+    "author": "Darshit Patel",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/96196/",
+    "category": "master"
+  },
+  {
+    "title": "What Solutions Can the Analysis of Bike-Sharing System Data Bring to the Idea of Smart Cities?",
+    "author": "Wiktor Szczepanowski",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/96443/",
+    "category": "master"
+  },
+  {
+    "title": "Enabling Analytics using Instance Segmentation for Amateur Football",
+    "author": "Prasenjeet Rathore",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/96446/",
+    "category": "master"
+  },
+  {
+    "title": "Praca dyplomowa na programie SMMB-AAB",
+    "author": "Jakub Kostrzębski",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/96447/",
+    "category": "master"
+  },
+  {
+    "title": "Research on Sentiment Time Series for Anomaly Detection",
+    "author": "Yuqing Liu",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/96449/",
+    "category": "master"
+  },
+  {
+    "title": "Machine learning based trading strategies for the selected stock market with Python",
+    "author": "Cezary Rosa",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/96450/",
+    "category": "master"
+  },
+  {
+    "title": "Warfare between Ukraine and Russia: Sentiment Analysis of Social Network Messages",
+    "author": "Anastasiya Pogrebytska",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/96451/",
+    "category": "master"
+  },
+  {
+    "title": "Analysis of Factors contributing to Success of Startups: Unsupervised and Supervised Learning Approach to Predict Success",
+    "author": "Jiyoung Kim",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/96455/",
+    "category": "master"
+  },
+  {
+    "title": "Gospodarowanie publicznymi źródłami danych w kontekście transformacji cyfrowej JST",
+    "author": "Jan Masny",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/97094/",
+    "category": "master"
+  },
+  {
+    "title": "Metody rozwiązywania zagadnienia detekcji propagandy w danych tekstowych",
+    "author": "Dominika Bankiewicz",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/97583/",
+    "category": "master"
+  },
+  {
+    "title": "Konstruowanie Multimodalnego Systemu Wyszukiwania Semantycznego",
+    "author": "Katsiaryna Lapato",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/97604/",
+    "category": "master"
+  },
+  {
+    "title": "Wycena nieruchomości na rynku warszawskim z wykorzystaniem web scrapingu i metod uczenia maszynowego",
+    "author": "Weronika Pyra",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/97605/",
+    "category": "master"
+  },
+  {
+    "title": "Sztuczne sieci neuronowe jako narzędzie wspomagania decyzji inwestycyjnych na rynku kryptowalut",
+    "author": "Hubert Antoniewicz",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/97609/",
+    "category": "master"
+  },
+  {
+    "title": "Praca dyplomowa na programie SMMD-ADA",
+    "author": "Mariusz Białasz",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/97627/",
+    "category": "master"
+  },
+  {
+    "title": "Eksploracja dużych zbiorów danych z wykorzystaniem Apache Spark na przykładzie zadania predykcyjnego dla branży lotniczej.",
+    "author": "Szymon Klimont",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/97633/",
+    "category": "master"
+  },
+  {
+    "title": "Predykcja kierunku zmian kursu indeksu giełdowego na podstawie danych Google Trends",
+    "author": "Izabela Gajek",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/97636/",
+    "category": "master"
+  },
+  {
+    "title": "Analiza sentymentu na podstawie danych pochodzących z serwisu Twitter",
+    "author": "Adrian Zwierzyński",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/97643/",
+    "category": "master"
+  },
+  {
+    "title": "Możliwości wykorzystania otwartych danych i API we współczesnej gospodarce",
+    "author": "Andrzej Drozd",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/98265/",
+    "category": "master"
+  },
+  {
+    "title": "Predicting Live Birth Occurrence Before In Vitro Fertilisation Treatment Utilising Machine Learning in the Field of Big Data",
+    "author": "Piotr Braszkiewicz",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/99492/",
+    "category": "master"
+  },
+  {
+    "title": "Application of machine learning algorithms in protein sequence analysis",
+    "author": "Daniel Dzierzęcki",
+    "year": "2024",
+    "url": "https://apd.sgh.waw.pl/diplomas/100238/",
+    "category": "master"
+  },
+  {
+    "title": "Recommender Systems in the Era of Big Data: Techniques, Challenges, and Performance Evaluation",
+    "author": "Hikmat Zeynalli",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/100239/",
+    "category": "master"
+  },
+  {
+    "title": "Diet - Longevity study based on Blue Zones",
+    "author": "Jathin Krishnan",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/100240/",
+    "category": "master"
+  },
+  {
+    "title": "Identify the importance of individual risk indicators in Development Aid project: An analytical approach using unsupervised Machine Learning",
+    "author": "Nguyet Dao",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/100241/",
+    "category": "master"
+  },
+  {
+    "title": "CLASSIFICATION AND DETECTION OF BREAST CANCER USING DEEP LEARNING",
+    "author": "Abimbola Adetona",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/100242/",
+    "category": "master"
+  },
+  {
+    "title": "Rozwój i zastosowania grafiki trójwymiarowej na naukowych stronach internetowych",
+    "author": "Bartosz Jarzyło",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/100243/",
+    "category": "master"
+  },
+  {
+    "title": "The Impact of Customer Service Automation on Brand Image - the Application of AI-Based Conversational Interfaces.",
+    "author": "Paulina Popławska",
+    "year": "2023",
+    "url": "https://apd.sgh.waw.pl/diplomas/101684/",
+    "category": "master"
+  },
+  {
+    "title": "Predykcja wyników meczów piłkarskich przy pomocy modeli uczenia maszynowego",
+    "author": "Jakub Lato",
+    "year": "2024",
+    "url": "https://apd.sgh.waw.pl/diplomas/102830/",
+    "category": "master"
+  },
+  {
+    "title": "Sample Preparation Bias in Protein Structure Resolution - A Data Analysis Approach",
+    "author": "Michał Śniady",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/103761/",
+    "category": "master"
+  },
+  {
+    "title": "Comprehensive Analysis of eSports Ecosystem: Trends, Player Performance and Market Dynamics",
+    "author": "Aviral Agarwal",
+    "year": "2024",
+    "url": "https://apd.sgh.waw.pl/diplomas/103766/",
+    "category": "master"
+  },
+  {
+    "title": "Prediction of Gamers Behaviour Using Big Data Technology: A Data-Driven Approach to Identifying Gamification System Triggers for Enhancing Player Engagement and Incentivized Advertising",
+    "author": "Nazar Moshkun",
+    "year": "2024",
+    "url": "https://apd.sgh.waw.pl/diplomas/103768/",
+    "category": "master"
+  },
+  {
+    "title": "Federated Learning: Enhancing Privacy and Efficency in Big Data Analytics with Cloud Computing",
+    "author": "Akansha -",
+    "year": "2024",
+    "url": "https://apd.sgh.waw.pl/diplomas/103770/",
+    "category": "master"
+  },
+  {
+    "title": "DevSecOps for Application Security, Proactive Threat Detection and Backdoor Prevention in Cloud Environments",
+    "author": "Shivi Chauhan",
+    "year": "2024",
+    "url": "https://apd.sgh.waw.pl/diplomas/103772/",
+    "category": "master"
+  },
+  {
+    "title": "Customer Segmentation and Predictive Modeling: Analyzing Purchase Behaviour in Retail Sales Data",
+    "author": "Murad Nasirov",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/103779/",
+    "category": "master"
+  },
+  {
+    "title": "Praca dyplomowa na programie SMMB-AAB",
+    "author": "Zakhar Smalenski",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/103782/",
+    "category": "master"
+  },
+  {
+    "title": "The Use of Machine Learning to Detect Non-Trivial Topologies in Proteins: Lasso Structures",
+    "author": "Dominika Nowak",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/103784/",
+    "category": "master"
+  },
+  {
+    "title": "Wykorzystanie dużych modeli językowych do generowania popularnonaukowych podsumowań artykułów naukowych o tematyce biomedycznej",
+    "author": "Maciej Borelowski",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/103966/",
+    "category": "master"
+  },
+  {
+    "title": "Porównanie efektywności architektur uczenia maszynowego i uczenia głębokiego na przykładzie klasyfikacji recenzji leków",
+    "author": "Adam Kotala",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/105358/",
+    "category": "master"
+  },
+  {
+    "title": "Szacowanie prawdopodobieństwa wygrania turnieju piłkarskiego przy wykorzystaniu metod uczenia maszynowego",
+    "author": "Krzysztof Kobyłkiewicz",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/105423/",
+    "category": "master"
+  },
+  {
+    "title": "Predicting Hotel Booking Cancellations using Machine Learning Methods",
+    "author": "Jakub Targalski",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/105849/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie technik uczenia maszynowego do przewidywania struktury białek na podstawie ich sekwencji",
+    "author": "Błażej Kalinowski",
+    "year": "2025",
+    "url": "https://apd.sgh.waw.pl/diplomas/107602/",
+    "category": "master"
+  },
+  {
+    "title": "Zastosowanie technologii Data Loss Prevention w nowoczesnych korporacjach",
+    "author": "Michał Serdak",
+    "year": "2017",
+    "url": "https://apd.sgh.waw.pl/diplomas/68707/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Oprogramowanie Open Source z perspektywy producenta - praca hobbystyczna czy sposób na zarobek?",
+    "author": "Kinga Kozłowska",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/75136/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Nowe trendy w bazach danych - bazy NoSQL",
+    "author": "Tomasz Wietrzyk",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/75364/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Multithreaded Backtesting System of Trading Algorithms for the Foreign Exchange Market",
+    "author": "Yoshiharu Sato",
+    "year": "2014",
+    "url": "https://apd.sgh.waw.pl/diplomas/37613/",
+    "category": "bachelor"
+  },
+  {
+    "title": "How to transform a Traditional Enterprise into a Digital Enterprise",
+    "author": "Sviatlana Buben",
+    "year": "2015",
+    "url": "https://apd.sgh.waw.pl/diplomas/39582/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Mechanizmy poprawy efektywności Javy",
+    "author": "Kacper Kochanowski",
+    "year": "2016",
+    "url": "https://apd.sgh.waw.pl/diplomas/41418/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Open Source Software in Business",
+    "author": "Miłosz Janas",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/74979/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Rozwój architektury oraz przegląd technologii integracji systemów informatycznych",
+    "author": "Joanna Slewa",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/74645/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Possibilities of Data Analysis of Internet of Things as a Tool for Achieving Marketing Objectives",
+    "author": "Aryna Starastsina",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/76369/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Techniki optymalizacji i pozycjonowania stron WWW na przykładzie autorskiej strony internetowej",
+    "author": "Magdalena Sowa",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/76333/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Chat-bot",
+    "author": "Vitalii Yartsev",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/76485/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Analiza behawioralna na straży bezpieczeństwa przedsiębiorstwa na podstawie narzędzia IntroSpect firmy Aruba",
+    "author": "Mariusz Miros",
+    "year": "2018",
+    "url": "https://apd.sgh.waw.pl/diplomas/76684/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Przewidywanie cen energii elektrycznej na rynku dnia następnego za pomocą złożonych modeli ARIMA oraz sieci neuronowych LSTM",
+    "author": "Bartosz Karczewski",
+    "year": "2020",
+    "url": "https://apd.sgh.waw.pl/diplomas/89118/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Wykorzystanie rozwiązań Big Data do zarządzania danymi i treścią użytkowników",
+    "author": "Marek Wrucha",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/80950/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Techgiganci w XXI wieku. Historia, sposoby działania oraz wpływ na współczesny świat. Dane jako zasób dający życie nowej gospodarce.",
+    "author": "Rafał Daniszewski",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/81281/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Poziom informatyzacji w małych i średnich przedsiębiorstwach w Polsce na przykładzie ConQuest Consulting",
+    "author": "Karol Michalak",
+    "year": "2019",
+    "url": "https://apd.sgh.waw.pl/diplomas/82301/",
+    "category": "bachelor"
+  },
+  {
+    "title": "XYZ",
+    "author": "Krzysztof Śliwiński",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/94769/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Ewaluacja wybranych strategii inwestycyjnych w handlu algorytmicznym w symulacji gry giełdowej",
+    "author": "Stanisław Matuszewski",
+    "year": "2022",
+    "url": "https://apd.sgh.waw.pl/diplomas/95359/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Praca dyplomowa na programie NLLS-MIS",
+    "author": "Łukasz Kowalik",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/96306/",
+    "category": "bachelor"
+  },
+  {
+    "title": "Praca dyplomowa na programie NLLS-MIS",
+    "author": "Łukasz Kowalik",
+    "year": null,
+    "url": "https://apd.sgh.waw.pl/diplomas/105944/",
+    "category": "bachelor"
+  }
+]

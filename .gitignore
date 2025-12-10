@@ -2,3 +2,5 @@
 .idea
 *.pyc
 _site
+.chrome_profile
+.venv
