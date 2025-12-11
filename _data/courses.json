@@ -6,7 +6,10 @@
     "icon": "📊",
     "level": "graduate",
     "language": "EN",
-    "category": "taught"
+    "years": "2019-",
+    "category": "taught",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "220541",
@@ -14,8 +17,11 @@
     "short": "Hands-on introductory course of Python for data analysis and automation.",
     "icon": "🦖",
     "level": "graduate",
+    "years": "2019-",
     "language": "EN",
-    "category": "taught"
+    "category": "taught",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "23A2K0",
@@ -24,7 +30,10 @@
     "icon": "🦖",
     "level": "graduate",
     "language": "PL",
-    "category": "coordinated"
+    "years": "2025-",
+    "category": "coordinated",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "229070",
@@ -33,43 +42,58 @@
     "icon": "⚛️",
     "level": "graduate",
     "language": "PL",
-    "category": "coordinated"
+    "years": "2023-",
+    "category": "coordinated",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "131000",
     "name": "Systemy operacyjne",
     "short": "Foundations of operating systems.",
     "icon": "💻",
-    "level": "undergraduate",
+    "level": "undergrad.",
     "language": "PL",
-    "category": "taught"
+    "years": "2025-",
+    "category": "taught",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "131001",
     "name": "Operating Systems",
     "short": "Foundations of operating systems.",
     "icon": "💻",
-    "level": "undergraduate",
+    "level": "undergrad.",
     "language": "EN",
-    "category": "coordinated"
+    "years": "2014-2019",
+    "category": "coordinated",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "130711",
     "name": "Computer Programming",
     "short": "Introductory course on programming.",
     "icon": "☕️",
-    "level": "undergraduate",
+    "level": "undergrad.",
     "language": "EN",
-    "category": "coordinated"
+    "years": "2013-",
+    "category": "coordinated",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "130710",
     "name": "Programowanie komputerów",
     "short": "Introductory course on programming.",
     "icon": "☕️",
-    "level": "undergraduate",
+    "level": "undergrad.",
     "language": "EN",
-    "category": "coordinated"
+    "years": "2010-",
+    "category": "coordinated",
+    "status": "present",
+    "institution": "SGH"
   },
   {
     "id": "290001-0506",
@@ -78,6 +102,116 @@
     "icon": "🎓",
     "level": "graduate",
     "language": "PL",
-    "category": "taught"
+    "category": "taught",
+    "status": "present",
+    "institution": "SGH"
+  },
+   {
+    "id": "110530",
+    "name": "Wstęp do informatyki gospodarczej I",
+    "icon": "💼💻",
+    "level": "undergrad.",
+    "language": "PL",
+    "years": "2003-2016",
+    "status": "past",
+    "original": false,
+    "category": "taught",
+    "institution": "SGH"
+  },
+  {
+    "id": "110530",
+    "name": "Wstęp do informatyki gospodarczej II",
+    "icon": "💼💻",
+    "level": "undergrad.",
+    "language": "PL",
+    "years": "2003-2016",
+    "status": "past",
+    "original": false,
+    "category": "taught",
+    "institution": "SGH"
+  },
+  {
+    "id": "110531",
+    "name": "Introduction to Business Information Systems",
+    "icon": "💼💻",
+    "level": "undergrad.",
+    "language": "EN",
+    "years": "2013-2020",
+    "status": "past",
+    "original": false,
+    "category": "taught",
+    "institution": "SGH"
+  },
+  {
+    "id": "7335",
+    "name": "Administrowanie serwisami internetowymi z wykorzystaniem narzędzi Open-Source",
+    "icon": "🛠️🌐",
+    "level": "unified",
+    "language": "PL",
+    "years": "2004-2006",
+    "status": "past",
+    "original": true,
+    "category": "taught",
+    "institution": "SGH"
+  },
+  {
+    "id": "73xx",
+    "name": "Tworzenie wielowarstwowych aplikacji typu klient-serwer z wykorzystaniem Enterprise Java Beans",
+    "icon": "🧱🔗",
+    "level": "unified",
+    "language": "PL",
+    "years": "2004-2006",
+    "status": "past",
+    "original": true,
+    "category": "coordinated",
+    "institution": "SGH"
+  },
+  {
+    "id": "130840",
+    "name": "Sieci komputerowe",
+    "icon": "🌐🔌",
+    "level": "graduate",
+    "language": "PL",
+    "years": "2007-2012",
+    "status": "past",
+    "original": false,
+    "category": "taught",
+    "institution": "SGH"
+  },
+  {
+    "id": "237990",
+    "name": "Podstawy programowania w języku Java",
+    "icon": "☕️",
+    "level": "graduate",
+    "language": "PL",
+    "years": "2012-2017",
+    "status": "past",
+    "original": false,
+    "category": "taught",
+    "institution": "SGH"
+  },
+  {
+    "id": "237980",
+    "name": "Architektura i technologie integracji systemów informatycznych",
+    "icon": "🏗️🔀",
+    "level": "graduate",
+    "language": "PL",
+    "years": "2015-2017",
+    "status": "past",
+    "original": true,
+    "category": "coordinated",
+    "institution": "SGH"
+  },
+  {
+    "id": "1000-224bJNP2",
+    "name": "Języki i narzędzia programowania II",
+    "icon": "💻🔧",
+    "level": "undergrad.",
+    "language": "PL",
+    "years": "2020-2021",
+    "status": "past",
+    "original": true,
+    "category": "taught",
+    "institution": "MiMUW"
   }
 ]

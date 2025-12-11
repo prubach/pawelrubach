@@ -1,63 +1,64 @@
 <section id="teaching">
   <h2>Teaching / Courses</h2>
 
-  {% assign taught = site.data.courses | where: "category", "taught" %}
-  {% assign coordinated = site.data.courses | where: "category", "coordinated" %}
+  {% assign present = site.data.courses | where: "status", "present" %}
+  {% assign past = site.data.courses | where: "status", "past" %}
 
-  <!-- Courses Currently Taught -->
-  <h3>Courses Currently Taught at the SGH Warsaw School of Economics</h3>
+  <!-- Present Courses -->
+  <h3>Current Courses</h3>
   <div class="course-grid">
-    {% for course in taught %}
-      <a class="course-card"
-         href="https://usosweb.sgh.waw.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod={{ course.id }}-D"
+    {% for course in present %}
+      <a class="course-card {{ course.category }}"
+         {% if course.institution == "SGH" %}
+           href="https://usosweb.sgh.waw.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod={{ course.id }}-D"
+         {% elsif course.institution == "MiMUW" %}
+           href="https://informatorects.uw.edu.pl/pl/courses/view?prz_kod={{ course.id }}"
+         {% endif %}
          target="_blank">
 
-        <div class="course-icon">{{ course.icon }}</div>
+         <div class="course-icon">{{ course.icon }}</div>
+         <div class="course-title">{{ course.name }}</div>
 
-        <div class="course-title">{{ course.name }}</div>
-
-        <div class="course-id">{{ course.id }}</div>
-
-        <div class="course-meta">
-          <span class="level">{{ course.level }}</span>
-          {% if course.language == "PL" %}
-            <span class="flag">🇵🇱</span>
-          {% elsif course.language == "EN" %}
-            <span class="flag">🇬🇧</span>
-          {% endif %}
-        </div>
-
+         <div class="course-meta">
+           <span class="level">{{ course.level | capitalize }}</span>
+           <span class="institution">{{ course.institution }}</span>
+           <span class="years">({{ course.years }})</span>
+           <span class="language">
+             {% if course.language == "PL" %}🇵🇱{% elsif course.language == "EN" %}🇬🇧{% endif %}
+           </span>
+           {% if course.original %}<span class="original">★</span>{% endif %}
+           <span class="category-label">{{ course.category | capitalize }}</span>
+         </div>
       </a>
     {% endfor %}
   </div>
 
-  <!-- Courses Coordinated -->
-  <h3>Courses Coordinated at the SGH Warsaw School of Economics</h3>
+  <!-- Past Courses -->
+  <h3>Past Courses</h3>
   <div class="course-grid">
-    {% for course in coordinated %}
-      <a class="course-card"
-         href="https://usosweb.sgh.waw.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod={{ course.id }}-D"
+    {% for course in past %}
+      <a class="course-card {{ course.category }}"
+         {% if course.institution == "SGH" %}
+           href="https://usosweb.sgh.waw.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod={{ course.id }}-D"
+         {% elsif course.institution == "MiMUW" %}
+           href="https://informatorects.uw.edu.pl/pl/courses/view?prz_kod={{ course.id }}"
+         {% endif %}
          target="_blank">
 
-        <div class="course-icon">{{ course.icon }}</div>
+         <div class="course-icon">{{ course.icon }}</div>
+         <div class="course-title">{{ course.name }}</div>
 
-        <div class="course-title">{{ course.name }}</div>
-
-        <div class="course-id">{{ course.id }}</div>
-
-        <div class="course-meta">
-          <span class="level">{{ course.level }}</span>
-          {% if course.language == "PL" %}
-            <span class="flag">🇵🇱</span>
-          {% elsif course.language == "EN" %}
-            <span class="flag">🇬🇧</span>
-          {% endif %}
-        </div>
-
+         <div class="course-meta">
+           <span class="level">{{ course.level | capitalize }}</span>
+           <span class="institution">{{ course.institution }}</span>
+           <span class="years">({{ course.years }})</span>
+           <span class="language">
+             {% if course.language == "PL" %}🇵🇱{% elsif course.language == "EN" %}🇬🇧{% endif %}
+           </span>
+           {% if course.original %}<span class="original">★</span>{% endif %}
+           <span class="category-label">{{ course.category | capitalize }}</span>
+         </div>
       </a>
     {% endfor %}
   </div>
-
-  <h3><a href="{{ '/students/' | relative_url }}">Supervised Master and Bachelor thesis</a></h3>
-
 </section>

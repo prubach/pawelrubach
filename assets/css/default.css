@@ -412,6 +412,58 @@ header .contact-icons ul li a:hover {
   font-size: 0.9rem;
 }
 
+.course-card.taught .category-label {
+  color: #2a7f62; /* greenish for regular taught courses */
+  font-weight: 600;
+}
+
+.course-card.coordinated .category-label {
+  color: #d36; /* reddish for coordinated courses */
+  font-weight: 600;
+}
+
+.course-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+  flex: 1 1 200px;
+  text-decoration: none;
+  color: #222;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 5px 12px rgba(0,0,0,0.12);
+}
+
+.course-icon {
+  font-size: 2em;
+  margin-bottom: 6px;
+}
+
+.course-title {
+  font-weight: 600;
+  font-size: 1em;
+  margin-bottom: 6px;
+}
+
+.course-meta span {
+  display: inline-block;
+  margin: 2px 4px;
+  font-size: 0.8em;
+  color: #555;
+}
+
+.course-meta .original {
+  color: gold;
+}
+
+
+/* /////  */
+
 .level {
   color: #666;
   font-size: 0.85rem;
