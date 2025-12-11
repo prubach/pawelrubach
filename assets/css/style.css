@@ -435,3 +435,8 @@ header .contact-icons ul li a:hover {
   font-size: 0.95em;
   margin: 0;
 }
+
+.scopus-icon i svg {
+  width: 1.2em;
+  height: 1.2em;
+}
