@@ -243,9 +243,9 @@ header .contact-icons ul li a:hover {
 }
 
 .project-card img {
-  width: 60px;
-  height: 60px;
-  margin-bottom: 12px;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 10px;
   object-fit: contain;
 }
 
@@ -290,7 +290,7 @@ header .contact-icons ul li a:hover {
 
 /* Icon styling */
 .course-icon {
-  font-size: 1.8em;
+  font-size: 2.8em;
   margin-bottom: 8px;
 }
 
@@ -393,7 +393,7 @@ header .contact-icons ul li a:hover {
 }
 
 .course-icon {
-  font-size: 32px;
+  font-size: 48px;
 }
 
 .course-title {
