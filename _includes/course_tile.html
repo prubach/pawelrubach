@@ -10,7 +10,14 @@ Assumes course is passed in as "course"
   {% assign base_url = "https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=" | append: course.id %}
 {% endif %}
 
+<a class="course-card
+       {% if course.institution == "MiMUW" %}mimuw{% endif %}"
+   href="{{ base_url }}" target="_blank">
+
+   <!-- rest of the content remains the same -->
+<!--
 <a class="course-card" href="{{ base_url }}" target="_blank">
+-->
 
   <!-- Institution logo (top-left) -->
   {% if course.institution == "SGH" %}

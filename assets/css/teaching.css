@@ -20,6 +20,11 @@
   transition: box-shadow .2s ease;
 }
 
+.course-card.mimuw {
+  background: #f3f8fd;  /* light blue */
+  border: 1px solid #cbddee;
+}
+
 .course-card:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
@@ -151,9 +156,6 @@
 
 
 
-
-
-
 /* Institution logo (top-left) */
 .course-card .course-logo {
   position: absolute;
@@ -164,6 +166,7 @@
   opacity: 0.85;
   transition: opacity 0.2s ease, transform 0.2s ease;
 }
+
 .course-card:hover .course-logo {
   opacity: 1;
   transform: scale(1.05);
