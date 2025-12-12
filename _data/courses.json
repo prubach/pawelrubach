@@ -7,7 +7,8 @@
     "level": "graduate",
     "language": "EN",
     "years": "2019-",
-    "category": "taught",
+    "original": false,
+    "category": "teaching",
     "status": "present",
     "institution": "SGH"
   },
@@ -19,7 +20,8 @@
     "level": "graduate",
     "years": "2019-",
     "language": "EN",
-    "category": "taught",
+    "category": "teaching + coordination",
+    "original": true,
     "status": "present",
     "institution": "SGH"
   },
@@ -31,7 +33,8 @@
     "level": "graduate",
     "language": "PL",
     "years": "2025-",
-    "category": "coordinated",
+    "original": false,
+    "category": "coordination",
     "status": "present",
     "institution": "SGH"
   },
@@ -43,7 +46,8 @@
     "level": "graduate",
     "language": "PL",
     "years": "2023-",
-    "category": "coordinated",
+    "original": true,
+    "category": "coordination",
     "status": "present",
     "institution": "SGH"
   },
@@ -55,7 +59,8 @@
     "level": "undergrad.",
     "language": "PL",
     "years": "2025-",
-    "category": "taught",
+    "original": false,
+    "category": "teaching",
     "status": "present",
     "institution": "SGH"
   },
@@ -67,7 +72,8 @@
     "level": "undergrad.",
     "language": "EN",
     "years": "2014-2019",
-    "category": "coordinated",
+    "original": false,
+    "category": "teaching + coordination",
     "status": "present",
     "institution": "SGH"
   },
@@ -79,7 +85,8 @@
     "level": "undergrad.",
     "language": "EN",
     "years": "2013-",
-    "category": "coordinated",
+    "category": "teaching + coordination",
+    "original": false,
     "status": "present",
     "institution": "SGH"
   },
@@ -91,7 +98,8 @@
     "level": "undergrad.",
     "language": "EN",
     "years": "2010-",
-    "category": "coordinated",
+    "original": false,
+    "category": "coordination",
     "status": "present",
     "institution": "SGH"
   },
@@ -102,7 +110,8 @@
     "icon": "🎓",
     "level": "graduate",
     "language": "PL",
-    "category": "taught",
+    "original": false,
+    "category": "teaching",
     "status": "present",
     "institution": "SGH"
   },
@@ -115,7 +124,7 @@
     "years": "2003-2016",
     "status": "past",
     "original": false,
-    "category": "taught",
+    "category": "teaching",
     "institution": "SGH"
   },
   {
@@ -127,7 +136,7 @@
     "years": "2003-2016",
     "status": "past",
     "original": false,
-    "category": "taught",
+    "category": "teaching",
     "institution": "SGH"
   },
   {
@@ -139,7 +148,7 @@
     "years": "2013-2020",
     "status": "past",
     "original": false,
-    "category": "taught",
+    "category": "teaching",
     "institution": "SGH"
   },
   {
@@ -151,7 +160,7 @@
     "years": "2004-2006",
     "status": "past",
     "original": true,
-    "category": "taught",
+    "category": "teaching + coordination",
     "institution": "SGH"
   },
   {
@@ -163,7 +172,7 @@
     "years": "2004-2006",
     "status": "past",
     "original": true,
-    "category": "coordinated",
+    "category": "teaching + coordination",
     "institution": "SGH"
   },
   {
@@ -175,7 +184,7 @@
     "years": "2007-2012",
     "status": "past",
     "original": false,
-    "category": "taught",
+    "category": "teaching",
     "institution": "SGH"
   },
   {
@@ -187,7 +196,7 @@
     "years": "2012-2017",
     "status": "past",
     "original": false,
-    "category": "taught",
+    "category": "teaching + coordination",
     "institution": "SGH"
   },
   {
@@ -199,7 +208,7 @@
     "years": "2015-2017",
     "status": "past",
     "original": true,
-    "category": "coordinated",
+    "category": "teaching + coordination",
     "institution": "SGH"
   },
   {
@@ -211,7 +220,7 @@
     "years": "2020-2021",
     "status": "past",
     "original": true,
-    "category": "taught",
+    "category": "teaching",
     "institution": "MiMUW"
   }
 ]
