@@ -2,7 +2,7 @@ title: "Paweł Rubach – Researcher & IT Architect"
 email: "pawel.rubach [at] sgh.waw.pl"
 description: "Assistant Professor, distributed computing, structural bioinformatics, IT architect"
 baseurl: ""        # because we’ll host at root (or change if hosting in subpath)
-url: "https://pawel.rubach.waw.pl"   # replace with your domain (or GitHub pages URL)
+url: "https://pawelrubach.pl"   # replace with your domain (or GitHub pages URL)
 theme: minima       # optional, or you can ignore theme and use custom layout
 markdown: kramdown
 plugins: []
