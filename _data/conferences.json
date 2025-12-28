@@ -279,7 +279,7 @@
     "conference": "IASTED International Conference on Parallel and Distributed Computing and Networks",
     "location": "Innsbruck, Austria",
     "title": "SLA-Based Asynchronous Coordination in Metacomputing Environments",
-    "type": "Lecture",
+    "type": "Talk in session",
     "related_habilitation": false
   },
   {
@@ -288,7 +288,7 @@
     "conference": "On the Move to Meaningful Internet Systems: OTM 2009 Workshops",
     "location": "Vilamoura, Portugal",
     "title": "Dynamic SLA negotiation in autonomic federated environments",
-    "type": "Lecture",
+    "type": "Talk in session",
     "related_habilitation": false
   },
   {
@@ -298,7 +298,7 @@
     "location": "Vienna, Austria",
     "link": "https://www.icpp-conf.org/2009/",
     "title": "Autonomic SLA Management in Federated Computing Environments",
-    "type": "Lecture",
+    "type": "Talk in session",
     "related_habilitation": false
   }
 ]
